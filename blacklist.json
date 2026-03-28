@@ -1,0 +1,27 @@
+[
+  {
+    "id": 230173495,
+    "first_name": "Артём",
+    "last_name": "Нечаев",
+    "profile_url": "https://vk.com/id230173495",
+    "photos": [
+      "photo230173495_456241570",
+      "photo230173495_456239662",
+      "photo230173495_457242086"
+    ],
+    "owner_id": 51172188,
+    "added_at": "2026-03-22T16:44:11"
+  },
+  {
+    "id": 589894384,
+    "first_name": "Melissa",
+    "last_name": "Engel",
+    "profile_url": "https://vk.com/id589894384",
+    "photos": [
+      "photo589894384_457239018",
+      "photo589894384_457239099"
+    ],
+    "owner_id": 51172188,
+    "added_at": "2026-03-22T17:54:32"
+  }
+]
